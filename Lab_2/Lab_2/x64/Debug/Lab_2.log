@@ -1,0 +1,8 @@
+﻿  Lab_2.cpp
+D:\Programs\Git\ChislenieMetodi\Lab_2\Lab_2.cpp(41,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\Git\ChislenieMetodi\Lab_2\Lab_2.cpp(41,17): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Programs\Git\ChislenieMetodi\Lab_2\Lab_2.cpp(93,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\Git\ChislenieMetodi\Lab_2\Lab_2.cpp(93,17): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Programs\Git\ChislenieMetodi\Lab_2\Lab_2.cpp(129,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programs\Git\ChislenieMetodi\Lab_2\Lab_2.cpp(129,17): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  Lab_2.vcxproj -> D:\Programs\Git\ChislenieMetodi\Lab_2\x64\Debug\Lab_2.exe
